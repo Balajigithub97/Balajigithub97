@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balajigithub97
-- 👀 I’m interested in ...Front end Developer
-- 🌱 I’m currently learning ...webdesining , Software development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Data Analyst, Data Scientist, Machinelearning
+- 🌱 I’m currently learning ...Machine Learning and DeepLearning
+- 💞️ 
 - 📫 How to reach me ... pH.no : +918056856367
 Email : akilmogaabala@gmail.com
 
